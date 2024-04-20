@@ -33,16 +33,22 @@ Bienvenido al repositorio del curso de programación modalidad presencial. Este 
 ##  [📂](./Misión%20Uno/) Misión Uno:
 
 
-### Unidad 1: Historia de la IA- Magistral
+### Unidad 1:contexto y bases de la programación
+
 Sesión Magistral abordando los siguientes temas:
 - Temas
 
 
-### Unidad 2: Definición y conceptos básicos de IA - Magistral
+### Unidad 2: Habilidades de programación
 Sesión Magistral abordando los siguientes temas:
 
 Lección 1: 
-- Representacion de la informacion
+<!-- ¿Qué es la programación?.
+¿Qué es un algoritmo y flujos ?.
+¿Qué es un lenguaje de programación ?.
+¿Cómo un entorno de desarrollo integrado (IDE)?.
+¿ Por qué usar diagramas y realizar buenas prácticas?. -->
+
 
 
 
