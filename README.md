@@ -28,55 +28,26 @@ Bienvenido al repositorio del curso de programación modalidad presencial. Este 
 
 
 # Contenido
-En 120 horas, se dasarrolla la siguinte temática:
+ temática:
 
 ##  [📂](./Misión%20Uno/) Misión Uno:
-Introducción a la Inteligencia Artificial
+
 
 ### Unidad 1: Historia de la IA- Magistral
 Sesión Magistral abordando los siguientes temas:
-- Historia antigua
-- Historia moderna
-- Oleadas de la Inteligencia artificial 
-- Cibernética
-- Conexionismo
-- Decaimiento y Resurgimiento de las redes neuronales
+- Temas
+
 
 ### Unidad 2: Definición y conceptos básicos de IA - Magistral
 Sesión Magistral abordando los siguientes temas:
 
-Lección 1: Representacion de la informacion
+Lección 1: 
 - Representacion de la informacion
-- Factores de Variación
-- Extraccion de caracteristicas
-- Clasificaciones de la IA Según la capacidad y el  el enfoques
-
-Lección 2: Factores de fortalecimiento de la IA
-- Aumento en la disponibilidad de los datos
-- Aumento de infraestructura
-- Aplicaciones innovadoras 
-
-### Unidad 3: Bases Matemáticas- (Sesión Teórico práctica)
-
-Lección 1: Algebra lineal
-
-- Vectores 
-- Matices
-- Tensores
 
 
-Lección 2: Probabilidad
 
-- Variable Aleatoria
-- Distribuciones
-- La probabilidad condicional
-- Independencia e independencia condicional
-- Métricas, media, varianza
 
-Lección 3: Computación Numérica y Gráfica
 
-- Computación Numérica
-- Computación Gráfica
 <!-- 
 ## [📂](./Misión%20Dos/) Misión Dos:
 Fundamentos de Programación para IA
