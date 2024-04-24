@@ -30,103 +30,53 @@ Bienvenido al repositorio del curso de programación modalidad presencial. Este 
 # Contenido
  temática:
 
-##  [📂](./Misión%20Uno/) Misión Uno:
+##  [📂](./Misión%20Uno/) Misión Uno: Habilidades Técnicas Entrenamiento
 
 
 ### Unidad 1:contexto y bases de la programación
 
 Sesión Magistral abordando los siguientes temas:
-- Temas
+- ¿Qué es la programación?.
+- ¿Qué es un algoritmo y flujos ?.
+- ¿Qué es un lenguaje de programación ?.
+- ¿Cómo un entorno de desarrollo integrado (IDE)?.
+- ¿Por qué usar diagramas y realizar buenas prácticas?.
 
 
-### Unidad 2: Habilidades de programación
+
+### Unidad 2: Introducción a Python
 Sesión Magistral abordando los siguientes temas:
-
-Lección 1: 
-<!-- ¿Qué es la programación?.
-¿Qué es un algoritmo y flujos ?.
-¿Qué es un lenguaje de programación ?.
-¿Cómo un entorno de desarrollo integrado (IDE)?.
-¿ Por qué usar diagramas y realizar buenas prácticas?. -->
+- ¿Qué es Python?.
+- ¿Cómo configurar Python y sus bases?.
+- ¿Qué  es un variable y los tipos de datos?.
+- Uso de operadores y expresiones.
 
 
+## [📂](./Misión%20Dos/) Misión Dos: Lógica de programación
 
 
+### Unidad 1 y 2: 
+
+- Flujo de programación con condicionales.
+- Ciclos.
+- Errores y excepciones.
+- DocStrings y comentarios.
+- Cadenas
+- Lista de tuplas
+- Conjunto y diccionarios
+- Funciones integradas
+- Funciones propias.
+- Funciones Lambda.
+- Recursividad
+
+## [📂](./Misión%20Tres/) Misión Tres: programación orientada a objetos
+
+- Definiciones objetos y clase 
+- Relación entre objetos
+- Manejo de errores y excepciones
+- Diseño de clases y objetos
 
 
-<!-- 
-## [📂](./Misión%20Dos/) Misión Dos:
-Fundamentos de Programación para IA
-
-### Unidad 1: Repaso de conceptos de programación
-
-Lección 1: Bases de Python (Sesión Teórico práctica)
-- Variables en python, Contenedores python 
-- Ciclos, Funciones, Manejo de errores y excepciones
-- Tipos de errores, Manejo de excepciones
-
-Lección 2: Programación orientada a objetos POO (Sesión Teórico práctica)
-- Clases
-- Atributos               
-- Métodos
-
-### Unidad 2: Uso de Bibliotecas (Sesión Teórico práctica)
-
-Lección 1: Bibliotecas para el manejo de Estructuras 
-- NumPy, ndarrays, Aritmetica, Funciones y metodos
-- Pandas, Estructuras, indexación, Aritmetica
-
-Lección 2: Bibliotecas de cálculo numérico
-- SciPy, Manipulación de Matrices y Álgebra Lineal
-- Scikit-learn, Evaluación de Modelos y Métricas, 
-- Selección de Modelos y Ajuste de Hiperparámetros
-
-### Unidad 3: Frameworks en IA (Sesión Teórico práctica)
-
-Lección 1: TensorFlow y PyTorch, Keras
-
-- Infraestructura para Redes Neuronales
-- Flexibilidad en el Desarrollo de Modelos
-- Soporte para GPU y TPU
-- Abstracciones para Tareas Específicas
-Lección 2: NLTK (Natural Language Toolkit)
-
-- Colección de Recursos para el Procesamiento del Lenguaje Natural
-- Herramientas para la Tokenización y Segmentación de Texto
-- Herramientas para el Etiquetado de Partes del Discurso (POS)
-Lección 3: OpenCV
-
-- Procesamiento de Imágenes y Videos
-- Detección y Seguimiento de Objetos
-
-## [📂](./Misión%20Tres/) Misión Tres:
-
-### Unidad 1: Aprendizaje Automático (Machine Learning) (Sesión Teórico práctica)
-Lección 1: Aprendizaje Automático
-Sesión Teórico práctica abordando los siguientes temas:
-- Aprendizaje Supervisado
-- Aprendizaje No Supervisado
-- Aprendizaje por Refuerzo
-
-### Unidad 2: Tareas, Modelos y Evaluacion en IA (Sesión Teórico)
-Lección 1: Tarea de IA
-
-- Tarea de Clasificación
-- Tarea de Regresión
-- Tarea de Agrupación
-
-Lección 2:Modelos de aprendizaje automático 
-
-- Regresión
-- Máquinas de Soporte Vectorial (SVM)
-- Árboles de Decisión
-- Algoritmos de Agrupamiento
-Lección 3: Evaluación de modelos
-
-- Evaluación de Clasificación
-- Evaluación de Regresión
-- Evaluación de Agrupación
- -->
 ### Referencias 
 
 <!-- <a href="https://www.youtube.com/playlist?list=PLUenpfvlyoa0PB6_kqJ9WU7m6i6z1RhfJ" target="_blank">- CS 5804: Introduction to Artificial Intelligence </a> -->
