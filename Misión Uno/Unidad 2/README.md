@@ -1,5 +1,11 @@
 # Creación de entorno virtual
 
+## verificar paquetes instalados
+En la terminal escribir
+```bash
+pip freeze
+```
+
 ## instalación de virtualenv:
 En una terminal de VsCode escribir los comandos:
 
@@ -17,11 +23,33 @@ virtualenv nombre_del_entorno
 
 En Windows:
 ```bash
-nombre_del_entorno\Scripts\activate.bat
+.\nombre_del_entorno\Scripts\activate.bat
 ```
 En Unix o MacOS:
 ```bash
 source nombre_del_entorno/bin/activate
 ```
 ## Desactivar el entorno virtual
+```bash
 deactivate
+```
+
+# Crear un archivo de requisitos:
+```bash
+pip freeze > requirements.txt
+```
+# Crear un nuevo entorno virtual
+```bash
+virtualenv nuevo_entorno_virtual
+```
+## Activar el entorno
+
+En Windows:
+```bash
+nombre_del_entorno\Scripts\activate.bat
+```
+# Instalar requerimientos
+```bash
+pip install -r requirements.txt
+
+```
