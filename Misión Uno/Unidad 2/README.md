@@ -12,9 +12,32 @@ En una terminal de VsCode escribir los comandos:
 ```bash
 pip install virtualenv
 ```
+
+
+## Habilitar permisos de entornos
+Ejecutar Windows PowerShell
+![alt text](image.png)
+
+En la terminal escribir el comando 
+![alt text](image-5.png)
+```bash
+Set-ExecutionPolicy Unrestricted
+```
+Escribir s y presionar enter
+
+![alt text](image-4.png)
+
 ## Crear el entorno virtual:
 Navega hasta el directorio raíz de tu proyecto y ejecuta el siguiente comando para crear un nuevo entorno virtual. Puedes reemplazar nombre_del_entorno con el nombre que desees para tu entorno virtual
 
+Python 3.11 o superior
+
+```bash
+python -m venv venv
+```
+
+
+Python 3.10 o menor
 ```bash
 virtualenv nombre_del_entorno
 ```
