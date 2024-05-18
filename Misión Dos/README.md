@@ -5,9 +5,14 @@
 
 ### Unidad 1: Repaso de conceptos de programación
 
-<a href="https://www.canva.com/design/DAGEl2pQeQg/QoNwBNFiGP3J5z3sZaVeHg/view?utm_content=DAGEl2pQeQg&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Enlace a Presentación Python en IA</a>
+<a href="https://www.canva.com/design/DAGEl2pQeQg/QoNwBNFiGP3J5z3sZaVeHg/view?utm_content=DAGEl2pQeQg&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Enlace a Presentación Python Condicionales</a>
 
-## [📄 ](./01_FundamentosPython.ipynb/) Script clase Variables en python, Contenedores python
+<a href="https://www.canva.com/design/DAGE8g8lWpI/bSWzdJotMoJ-lbGp_o0LUQ/view?utm_content=DAGE8g8lWpI&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Enlace a Presentación Funciones, Manejo de errores y excepciones</a>
+
+
+
+
+## [📄 ](./pythonExploradorM1U2.ipynb/) Script clase Variables en python, Contenedores python
 ## [📄 ](./02_Condiciones.ipynb/) Script clase clase Ciclos, Funciones, Manejo de errores y excepciones
 
 
