@@ -1,4 +1,5 @@
-import Calculadora as cd
+import Operaciones as op
+
 def Menu():
     while True:
         try:
@@ -14,13 +15,13 @@ def Menu():
             
 def OPERACIONES(opc1,opc2,operacion):
     if operacion == "suma":
-        print(cd.suma(opc1, opc2))
+        print(op.suma(opc1, opc2))
     elif operacion == "resta":
-        print(cd.resta(opc1, opc2))
+        print(op.resta(opc1, opc2))
     elif operacion == "multiplicacion":
-        print(cd.multiplicacion(opc1, opc2))
+        print(op.multiplicacion(opc1, opc2))
     elif operacion == "division":
-        print(cd.division(opc1, opc2))
+        print(op.division(opc1, opc2))
     else:
         print("Texto")
 

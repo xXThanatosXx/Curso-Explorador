@@ -1,7 +1,8 @@
 # from Calculadora import suma
-import Calculadora as cd
-#import Calculadora
+import Operaciones as op
 
+res = op.division(1,2)
+print(res)
 
 while(True):
     try:
@@ -16,13 +17,13 @@ operacion = input("Introduce la operacion a realizar (suma,resta,multiplicacion,
 operacion.lower()
 
 if operacion == "suma":
-    print(cd.suma(opc1,opc2))
+    print(op.suma(opc1,opc2))
 elif operacion == "resta":
-    print(cd.resta(opc1,opc2))
+    print(op.resta(opc1,opc2))
 elif operacion == "multiplicacion":
-    print(cd.multiplicacion(opc1,opc2))
+    print(op.multiplicacion(opc1,opc2))
 elif operacion == "division":
-    print(cd.division(opc1,opc2))
+    print(op.division(opc1,opc2))
 else:
     print("Operacion no completada")
 

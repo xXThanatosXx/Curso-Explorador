@@ -4,7 +4,7 @@
 block_cipher = None
 
 
-a = Analysis(['calculadora.py'],
+a = Analysis(['Calculadora.py'],
              pathex=['D:\\Shadow\\GitHub\\Curso-Explorador\\Misión Dos\\Excepciones'],
              binaries=[],
              datas=[],
@@ -26,7 +26,7 @@ exe = EXE(pyz,
           a.zipfiles,
           a.datas,  
           [],
-          name='calculadora',
+          name='Calculadora',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
