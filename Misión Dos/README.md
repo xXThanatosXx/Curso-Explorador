@@ -9,7 +9,7 @@
 
 <a href="https://www.canva.com/design/DAGE8g8lWpI/bSWzdJotMoJ-lbGp_o0LUQ/view?utm_content=DAGE8g8lWpI&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Enlace a Presentación Funciones, Manejo de errores y excepciones</a>
 
-
+<a href="https://www.canva.com/design/DAGIO8gmBo8/KiRi2Mfkir58Zo80yqoiYQ/view?utm_content=DAGIO8gmBo8&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Enlace a Presentación Ejercicios Excepciones, módulos y ejecutable</a>
 
 
 ## [📄 ](./pythonExploradorM1U2.ipynb/) Script clase Variables en python, Contenedores python
