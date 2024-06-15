@@ -6,7 +6,7 @@ ventana = tk.Tk()
 ventana.title("Ventana con Imagen")
 
 # Cargar la imagen
-ruta_imagen = "D:/Shadow/GitHub/Curso-Explorador/Misión Dos/Tkinter/EjemploUno/Cat.jpg"
+ruta_imagen = "D:/Shadow/GitHub/Curso-Explorador/Misión Tres/Tkinter/EjemploUno/Cat.jpg"
 imagen = Image.open(ruta_imagen)
 
 # Redimensionar la imagen
