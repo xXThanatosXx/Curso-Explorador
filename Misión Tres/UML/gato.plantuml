@@ -1,0 +1,15 @@
+
+
+
+@startuml
+
+class Gato {
+  - nombre : String
+  - edad : int
+  + __init__(nombre: String, edad: int)
+  + maullar() : String
+  + es_mayor_que(otro_gato: Gato) : bool
+}
+
+
+@enduml

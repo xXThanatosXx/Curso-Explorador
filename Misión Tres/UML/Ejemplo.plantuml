@@ -1,0 +1,21 @@
+@startuml
+class Persona {
+  - nombre : String
+  - edad : int
+  + getNombre() : String
+  + getEdad() : int
+}
+
+class Estudiante extends Persona {
+  - matricula : String
+  + getMatricula() : String
+}
+
+class Profesor extends Persona {
+  - salario : double
+  + getSalario() : double
+}
+
+Persona <|-- Estudiante
+Persona <|-- Profesor
+@enduml

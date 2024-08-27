@@ -1,0 +1,11 @@
+@startuml
+
+class Gato {
+  + nombre : String
+  - __edad : int
+  + __init__(nombre: String, edad: int)
+  + mostrar_info() : String
+  + saltar(): float
+}
+
+@enduml

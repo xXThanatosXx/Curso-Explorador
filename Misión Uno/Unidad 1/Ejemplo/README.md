@@ -74,3 +74,4 @@ Los diagramas UML (Lenguaje Unificado de Modelado) son esenciales para la visual
 - [Documentación oficial de Python](https://www.python.org/doc/)
 - [Tutorial de UML](https://www.lucidchart.com/pages/es/tutorial-de-diagrama-de-clases-uml)
 - [Más sobre algoritmos](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+

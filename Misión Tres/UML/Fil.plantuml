@@ -1,0 +1,23 @@
+@startuml
+
+class Gato {
+  + nombre : String
+  - __edad : int
+  + dueño : Dueño
+  + __init__(nombre: String, edad: int)
+  + asignar_dueño(dueño: Dueño)
+  + mostrar_info() : String
+}
+
+class Dueño {
+  + nombre : String
+  + gatos : List<Gato>
+  + __init__(nombre: String)
+  + adoptar_gato(gato: Gato)
+  + mostrar_gatos() : String
+}
+
+Gato --> Dueño : dueño
+Dueño --> "0..*" Gato : gatos
+
+@enduml

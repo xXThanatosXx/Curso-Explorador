@@ -1,12 +1,12 @@
-class coche():
+class Coche():
     largoChasis = 250
     anchoChasis = 120
     ruedas = 4
-    enmarcha= False
+    enmarcha = False
 
 
-    def arrancar(self):
-        self.enmarcha = True
+    def arrancar(self,val):
+        self.enmarcha = val
 
     def estado(self):
         if(self.enmarcha):
@@ -15,17 +15,25 @@ class coche():
             return "El coche esta parado"
         
 
-miCoche = coche()
+miCoche = Coche()
+print("Vehiculo Uno")
+print("V1:", miCoche.enmarcha)
+miCoche.arrancar(True)
+print("V1:",miCoche.estado())
+print("Vehiculo dos")
+miCoche2 = Coche()
+miCoche2.arrancar(False)
+print("V2",miCoche2.estado())
+print("Vehiculo Tres")
 
-print("El largo del coche es:",miCoche.largoChasis)
-print("El coche tiene",miCoche.ruedas,"ruedas")
-miCoche.arrancar()
 
-print(miCoche.estado())
 
-miCoche2 = coche()
+miCoche3 = Coche()
+miCoche3.arrancar(True)
+print("V3 ",miCoche3.estado())
 
-print("El largo del coche es:",miCoche2.largoChasis)
-print("El coche tiene",miCoche2.ruedas,"ruedas")
-#miCoche2.arrancar()
-print(miCoche2.estado())
+# print("El largo del coche es:",miCoche.largoChasis)
+# print("El coche tiene",miCoche.ruedas,"ruedas")
+# print("El ancho del coche es:",miCoche.anchoChasis)
+#print("El largo del coche es:",miCoche2.largoChasis)
+# print("El coche tiene",miCoche2.ruedas,"ruedas")
